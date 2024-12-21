@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **NestJs, NextJs, Graphql**
 
-- 👨‍💻 All of my projects are available at [portfolio-git-main-mir-abdullahs-projects.vercel.app/](portfolio-git-main-mir-abdullahs-projects.vercel.app/)
+- 👨‍💻 All of my projects are available at [portfolio-git-main-mir-abdullahs-projects.vercel.app/](https://portfolio-git-main-mir-abdullahs-projects.vercel.app/)
 
 - 💬 Ask me about **React, Node, Mongodb, Express, SSR, CSR**
 
