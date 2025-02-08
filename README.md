@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **mirabdullah101@outlook.com**
 
-- ⚡ Fun fact **I get high on Coffeee.**
+- ⚡ Fun fact **I get high on Coding.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
