@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [portfolio-git-main-mir-abdullahs-projects.vercel.app/](https://portfolio-git-main-mir-abdullahs-projects.vercel.app/)
 
-- 💬 Ask me about **React, Node, Mongodb, Express, SSR, CSR, postgress**
+- 💬 Ask me about **React, Node, Mongodb, Express, SSR, CSR, Postgress**
 
 - 📫 How to reach me **mirabdullah101@outlook.com**
 
